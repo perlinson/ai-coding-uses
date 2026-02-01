@@ -211,8 +211,8 @@ const aiCodingUses = [
     date: "2025-02-25"
   },
   {
-    id: "type-con: "AI做语言version",
-    title/框架迁移",
+    id: "language-framework-migration",
+    title: "AI做语言/框架版本迁移",
     description: "把Python代码转Go，React组件转Vue，AI帮你搞定。",
     author: "Polyglot Dev",
     twitterHandle: "@polyglotdev",
